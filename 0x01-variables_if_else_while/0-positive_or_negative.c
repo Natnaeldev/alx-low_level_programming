@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * Task 0 
- * A program that checks If a no is positive, negative or zero
+ *Task 0 
+ *A program that checks If a no is positive, negative or zero
  */
 int main(void)
 {
