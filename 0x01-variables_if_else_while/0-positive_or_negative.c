@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *Task 0 
- *A program that checks If a no is positive, negative or zero
- */
+* main - Entry point
+* Return: 0 (after complition)
+*/
 int main(void)
 {
 int n;
