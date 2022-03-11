@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* Task 0 */
-/* A program That checks If anumber Is negative, zero or positive */
+/**
+ * Task 0 
+ * A program that checks If a no is positive, negative or zero
+ */
 int main(void)
 {
 int n;
