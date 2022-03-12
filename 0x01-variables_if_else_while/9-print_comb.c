@@ -15,7 +15,7 @@ putchar(N);
 putchar(',');
 putchar(' ');
 }
+}
 putchar('\n');
 return (0);
-}
 }
