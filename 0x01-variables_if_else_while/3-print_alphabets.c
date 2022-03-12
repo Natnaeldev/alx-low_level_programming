@@ -11,7 +11,7 @@ for (N = 'a'; N <= 'z'; N++)
 {
 putchar(N);
 }
- for (N = 'A'; N <= 'Z'; N++)
+for (N = 'A'; N <= 'Z'; N++)
 {
 putchar(N);
 }
