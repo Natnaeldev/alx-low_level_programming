@@ -3,7 +3,7 @@
 *main-Entry point
 *Return: Always 0 (Success)
 */
-intmain(void)
+int main(void)
 {
 char N;
 for (N = 'a' ; N <= 'z' ; N++)
