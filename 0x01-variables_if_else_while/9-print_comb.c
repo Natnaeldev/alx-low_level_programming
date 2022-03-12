@@ -9,7 +9,7 @@ int main(void)
 int N;
 for (N = 48; N <= 57; N++)
 {
-putchart(N);
+putchar(N);
  if(N!=57)
 {
 putchar(',');
