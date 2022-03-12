@@ -10,7 +10,7 @@ int N;
 for (N = 48; N <= 57; N++)
 {
 putchar(N);
- if(N!=57)
+if (N != 57)
 {
 putchar(',');
 putchar(' ');
