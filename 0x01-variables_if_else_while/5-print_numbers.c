@@ -10,6 +10,6 @@ for (N = '0' ; N <= '9' ; N++)
 {
 putchar(N);
 }
-putcar('\n');
+putchar('\n');
 return (0);
 }
