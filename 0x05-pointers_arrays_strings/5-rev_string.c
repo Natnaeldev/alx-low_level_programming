@@ -14,7 +14,6 @@ void rev_string(char *s)
 		x++;
 	}
 	x = x - 1;
-	
 	while (x > y)
 	{
 		val = s[y];
