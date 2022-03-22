@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * *_strcpy - copies the string including the terminating nul
- * @*dest: pointer input value.
- * @*src: pointer input value.
+ * @dest: pointer input value.
+ * @src: pointer input value.
  * Return: value the pointer to dest
  */
 char *_strcpy(char *dest, char *src)
